@@ -4,6 +4,14 @@ This project is a simple yet effective **Spam Detection Web App** built using **
 
 ---
 
+## High Level Design
+<img width="872" height="478" alt="Code_Flow" src="https://github.com/user-attachments/assets/112fdde6-c00e-43e8-986c-0430d1e31704" />
+
+## User Flow
+![jpeg](https://github.com/user-attachments/assets/564014e1-323d-4f50-9828-acc917ee0c41)
+
+---
+
 ## 🚀 Features
 
 - ✅ Real-time email classification
